@@ -15,7 +15,7 @@ public class GitDemoApplication {
 
 	@GetMapping("/")
 	public String welcome() {
-		return "welcome";
+		return "welcome anmol ji ";
 	}
 
 }
